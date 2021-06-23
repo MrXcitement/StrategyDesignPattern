@@ -4,4 +4,4 @@ https://en.wikipedia.org/wiki/Strategy_pattern
 
 A behavioral software design pattern that enables selecting an algorithm at runtime. Instead of implementing a single algorithm directly, code receives run-time instructions as to which in a family of algorithms to use
 
-[Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://replit.com/@MrXcitement/StrategyDesignPattern#strategy.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/MrXcitement/StrategyDesignPattern/blob/8a928c46f2f74683be5393cb67137c9ffc18dd85/strategy.puml)
