@@ -1,4 +1,4 @@
-# [Better developers] The "Strategy" design pattern
+The "Strategy" design pattern
 
 https://BetterDevelopersWeekly.com/
 
